@@ -1,0 +1,2411 @@
+Initialize engine version: 5.2.0f3 (e7947df39b5c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: ATI Radeon HD 3200 Graphics (ID=0x9612)
+    Vendor:   ATI
+    VRAM:     252 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\Проэкты\Unity\Galaza\Galaza\Galaza_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\Проэкты\Unity\Galaza\Galaza\Galaza_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\Проэкты\Unity\Galaza\Galaza\Galaza_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading G:\Проэкты\Unity\Galaza\Galaza\Galaza_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: G:\Проэкты\Unity\Galaza\Galaza\Galaza_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading G:\Проэкты\Unity\Galaza\Galaza\Galaza_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: G:\Проэкты\Unity\Galaza\Galaza\Galaza_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\Проэкты\Unity\Galaza\Galaza\Galaza_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: G:\Проэкты\Unity\Galaza\Galaza\Galaza_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading G:\Проэкты\Unity\Galaza\Galaza\Galaza_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: G:\Проэкты\Unity\Galaza\Galaza\Galaza_Data\Managed\DOTween.dll (this message is harmless)
+Loading G:\Проэкты\Unity\Galaza\Galaza\Galaza_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: G:\Проэкты\Unity\Galaza\Galaza\Galaza_Data\Managed\DOTween43.dll (this message is harmless)
+Loading G:\Проэкты\Unity\Galaza\Galaza\Galaza_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: G:\Проэкты\Unity\Galaza\Galaza\Galaza_Data\Managed\DOTween46.dll (this message is harmless)
+Loading G:\Проэкты\Unity\Galaza\Galaza\Galaza_Data\Managed\DOTween46.dll into Unity Child Domain
+Platform assembly: G:\Проэкты\Unity\Galaza\Galaza\Galaza_Data\Managed\DOTween50.dll (this message is harmless)
+Loading G:\Проэкты\Unity\Galaza\Galaza\Galaza_Data\Managed\DOTween50.dll into Unity Child Domain
+Platform assembly: G:\Проэкты\Unity\Galaza\Galaza\Galaza_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.196 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: G:\Проэкты\Unity\Galaza\Galaza\Galaza_Data\Managed\System.dll (this message is harmless)
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 12a4 -> priority: 1 
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Done_Player", Mesh asset path "" Mesh name "player_ship_collider"
+ 
+(Filename:  Line: 1265)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.837505 ms
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 482.
+Total: 0.889899 ms (FindLiveObjects: 0.100532 ms CreateObjectMapping: 0.051662 ms MarkObjects: 0.599472 ms  DeleteObjects: 0.136370 ms)
+
+Количество врагов на уровне: 36
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Bonus
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Bonus
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Bonus
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player get shoot speed bonus
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Speed shoot start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Bonus
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Bonus
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Bonus
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Bonus
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Bonus
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Speed shoot stop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player get shoot speed bonus
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Speed shoot start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Next Level
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
